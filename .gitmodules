@@ -164,4 +164,4 @@
 	url = https://github.com/ESMCI/visualCaseGen.git
         fxDONOTUSEurl = https://github.com/ESMCI/visualCaseGen.git
         fxrequired = ToplevelRequired
-        fxtag = main_0.1.2
+        fxtag = main_0.1.3
