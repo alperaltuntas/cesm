@@ -80,7 +80,7 @@
         url = https://github.com/ESCOMP/MOM_interface
         fxDONOTUSEurl = https://github.com/ESCOMP/MOM_interface
         fxrequired = ToplevelRequired
-        fxtag = mi_250428
+        fxtag = mi_250630
 
 [submodule "cism"]
         path = components/cism
@@ -164,4 +164,4 @@
 	url = https://github.com/ESMCI/visualCaseGen.git
         fxDONOTUSEurl = https://github.com/ESMCI/visualCaseGen.git
         fxrequired = ToplevelRequired
-        fxtag = main_0.0.21
+        fxtag = main_0.1.1
