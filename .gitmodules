@@ -172,3 +172,10 @@
   fxtag = v0.0.5
   fxrequired = ToplevelOptional
   fxDONOTUSEurl = https://github.com/ESCOMP/FTorch_interface
+
+[submodule "visualCaseGen"]
+	path = visualCaseGen
+	url = https://github.com/ESMCI/visualCaseGen.git
+        fxDONOTUSEurl = https://github.com/ESMCI/visualCaseGen.git
+        fxrequired = ToplevelRequired
+        fxtag = main_1.0.2
